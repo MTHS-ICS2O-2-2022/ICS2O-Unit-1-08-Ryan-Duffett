@@ -30,7 +30,7 @@ p {
   padding-left: 0pt;
   padding-right: 15pt;
   padding-top: 15pt;
-  color: rgb(135, 135, 135);
+  color: rgb(135 135 135);
   font-weight: bold;
 }
 
@@ -39,14 +39,4 @@ img {
   height: 400px;
   float: right;
   margin-bottom: 300px;
-}
-
-html {
-  overflow: hidden;
-  height: 100%;
-}
-
-body {
-  height: 100%;
-  overflow: auto;
 }

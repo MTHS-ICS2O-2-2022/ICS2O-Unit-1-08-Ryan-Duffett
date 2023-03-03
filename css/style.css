@@ -27,7 +27,6 @@ p {
 }
 
 #button-answer {
-  padding-left: 0pt;
   padding-right: 15pt;
   padding-top: 15pt;
   color: rgb(135 135 135);
@@ -39,5 +38,5 @@ img {
   height: 400px;
   float: right;
   margin-bottom: 250px;
-  margin-right: 100px
+  margin-right: 100px;
 }
